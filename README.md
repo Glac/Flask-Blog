@@ -1,13 +1,27 @@
-# Project-Mie
+# FlaskBlog
 
-========================================================================================================================
+## Strucutre of the Blog
+├── ethirio
+│   ├── forms.py
+│   ├── __init__.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── site.db
+│   ├── static
+│   │   ├── logic.js
+│   │   ├── main.css
+│   │   └── profile_pics
+│   │       └── default.jpg
+│   └── templates
+│       ├── about.html
+│       ├── account.html
+│       ├── create_post.html
+│       ├── home.html
+│       ├── index.html
+│       ├── layout.html
+│       ├── login.html
+│       ├── post.html
+│       └── register.html
+├── nohup.out
+└── run.py
 
-Introduction:
-  Project-Mie is a system which enable user to get better service in darily life.
-
-
-Vision:
-  First I will implement feedMie system, which enable user to odder more delicious food online 
-  Second I will implement protectMie system, which enable user to send SOS emergency whenever they encounter dangerous.
-  
-========================================================================================================================
