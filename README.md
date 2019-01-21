@@ -1,27 +1,27 @@
 # FlaskBlog
 
 ## Strucutre of the Blog
-├── ethirio
-│   ├── forms.py
-│   ├── __init__.py
-│   ├── models.py
-│   ├── routes.py
-│   ├── site.db
-│   ├── static
-│   │   ├── logic.js
-│   │   ├── main.css
-│   │   └── profile_pics
-│   │       └── default.jpg
-│   └── templates
-│       ├── about.html
-│       ├── account.html
-│       ├── create_post.html
-│       ├── home.html
-│       ├── index.html
-│       ├── layout.html
-│       ├── login.html
-│       ├── post.html
-│       └── register.html
-├── nohup.out
-└── run.py
+├── ethirio<br />
+│   ├── forms.py<br />
+│   ├── __init__.py<br />
+│   ├── models.py<br />
+│   ├── routes.py<br />
+│   ├── site.db<br />
+│   ├── static<br />
+│   │   ├── logic.js<br />
+│   │   ├── main.css<br />
+│   │   └── profile_pics<br />
+│   │       └── default.jpg<br />
+│   └── templates<br />
+│       ├── about.html<br />
+│       ├── account.html<br />
+│       ├── create_post.html<br />
+│       ├── home.html<br />
+│       ├── index.html<br />
+│       ├── layout.html<br />
+│       ├── login.html<br />
+│       ├── post.html<br />
+│       └── register.html<br />
+├── nohup.out<br />
+└── run.py<br />
 
